@@ -23,6 +23,7 @@ Finding similarity between two images is a complex task that requires a deep und
   -- `modeling` folder: contain model folder and files.
 
  -----
+ ### Note:  The steps for finding simailarity are that a given image gets passed for MTCNN to detect a face in the image first, then images comes throw Siamese Neural Network
 
 ## Data
 ![image](data/images/random%20samples.png)
