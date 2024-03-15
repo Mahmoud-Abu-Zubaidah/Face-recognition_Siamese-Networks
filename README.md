@@ -38,7 +38,7 @@ Finding similarity between two images is a complex task that requires a deep und
 ## Predict result
 ![image](data/images/result.JPG)
 
-#### For more information, Reach me out [(\^_^)](https://www.linkedin.com/in/mahmoud-abu-zubaidah-bab3981a3/)
+#### For more information,Feel Free To Reach me out [(\^_^)](https://www.linkedin.com/in/mahmoud-abu-zubaidah-bab3981a3/)
 
 
 
